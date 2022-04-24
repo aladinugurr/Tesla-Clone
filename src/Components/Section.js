@@ -5,7 +5,7 @@ import Fade from 'react-reveal/Fade';
 function Section({title,description,RightBtnText,LeftBtnText,backgroundImg}) {
   return (
     <Wrap bgImage={backgroundImg}>
-      <Fade bottom>
+     <Fade bottom>
       <ItemText>
        <h1>{title}</h1>
        <p>{description}</p>
