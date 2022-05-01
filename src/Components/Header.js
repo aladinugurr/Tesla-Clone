@@ -59,6 +59,7 @@ top:0;
 left:0;
 right:0;
 
+
 `
 const Menu = styled.div`
 display:flex;
@@ -96,7 +97,7 @@ bottom:0;
 right:0;
 background:white;
 width:300px;
-z-index:16;
+ndex:100;
 list-style:none;
 padding:20px;
 display:flex;
